@@ -1,0 +1,36 @@
+% Enter the names of your group members below.
+% If you only have 2 group members, leave the last space blank
+%
+%%%%%
+%%%%% NAME: Vladimirs Kalinins
+%%%%% NAME:
+%%%%% NAME:
+%
+% Add the required rules in the corresponding sections. 
+% If you put the rules in the wrong sections, you will lose marks.
+%
+% You may add additional comments as you choose but DO NOT MODIFY the comment lines below
+%
+1. The history exam will take place exactly two days after the biology exam (for example, if biology is on
+Tuesday, history is on Thursday). The calculus exam takes place the day immediately following the
+history exam.
+2. The classroom Room 105 hosts an exam exactly four days after Room 101. The exam in Room 102 is
+scheduled for the day immediately before the exam in Room 103, which takes place earlier in the week
+than the exam in Room 104.
+3. The physics exam has 35 students. It takes place earlier in the week than the calculus exam, but it is
+not the first exam of the week.
+4. The literature exam is scheduled for Room 101, but it does not have 20 students.
+5. The largest class (40 students) has its exam in Room 105. The smallest class (20 students) has its
+exam the day after physics.
+
+%%%%% SECTION: examsSession
+%%%%% Put your session for the exam scheduling problem below
+The problem was solved in 0.0 seconds
+
+biology exam on: tuesday, room: 102, size: 30
+calculus exam on: friday, room: 105, size: 40
+history exam on: thursday, room: 104, size: 20
+literature exam on: monday, room: 101, size: 25
+physics exam on: wednesday, room: 103, size: 35
+
+[biology, 2, 102, 30, calculus, 5, 105, 40, history, 4, 104, 20, literature, 1, 101, 25, physics, 3, 103, ...]  
